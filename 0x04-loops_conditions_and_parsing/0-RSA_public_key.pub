@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -b 2048 -C "scottimbiaka@gmail.com" -f ~/.ssh/scott-cityboy
+
