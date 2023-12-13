@@ -64,3 +64,4 @@ backend www-backend
 	balance roundrobin
         server 307460-web-01 100.26.249.198
         server 307460-web-02 54.173.185.11
+	server 307460-lb-01 100.25.150.70
